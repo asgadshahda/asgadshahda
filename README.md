@@ -1,16 +1,128 @@
-## Hi there 👋
+<!-- =====================================================
+     GITHUB PROFILE README
+     Replace all YOUR_... placeholders with your details.
+====================================================== -->
 
-<!--
-**asgadshahda/asgadshahda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I'm ASGAD MOAWIA </h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+  💻 Computer Science Student | Aspiring Software Developer
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Aspiring+Software+Developer;Learning+C%2B%2B+and+SQL;Exploring+Database+Design;Building+Projects+and+Learning+Every+Day" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Software%20Development-38BDF8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Learning-C%2B%2B-7C3AED?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Database-SQL-0EA5E9?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+---
+
+## 🌟 About Me
+
+Hello! I'm **ASGAD**, a Computer Science student passionate about technology, programming, and software development.
+
+I enjoy learning new technologies, solving problems, and developing projects that help me improve my technical knowledge.
+
+- 🎓 Education: UTM
+- 📚 Programme: Network and security 
+- 💻 Currently Learning: C++, digital logic, discrete structure 
+- 🔍 Interests: Software Development 
+- 🌱 Always learning and improving my programming skills.
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" />
+</p>
+
+### Database & Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" height="45" alt="MySQL, Git, GitHub and VS Code" />
+</p>
+
+### Other Technical Skills
+
+- ++ Programming
+-Python Programming (Basic)
+-HTML & CSS
+-Computer Networking
+-Cybersecurity Fundamentals
+-Network Security
+- Programming Fundamentals
+- Problem Solving
+
+---
+
+## 🔬 Research Interests
+
+I'm interested in exploring the following areas:
+
+- Software Engineering
+- Database Management Systems
+- Data Organization and Management
+- Information Systems
+- Software Design and Development
+- Emerging Technologies
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" width="95%" alt="GitHub Contribution Activity" />
+</p>
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://github.com/asgadshahda">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:asgadshahda@gmail.com ">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📍 Malaysia _Johor 
+</p>
+
+---
+
+## 💬 Personal Motto
+
+<p align="center">
+  <i>"Believe in yourself, trust your journey, and never stop learning."</i>
+</p>
+
+<p align="center">
+  Thank you for visiting my GitHub profile!
+  <br />
+  Feel free to explore my repositories and follow my learning journey.
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E40AF,100:06B6D4&height=120&section=footer" width="100%" alt="Footer Banner" />
+</p>9
